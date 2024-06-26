@@ -4,25 +4,25 @@
 The copper industry deals with sales and pricing data that often suffer from issues like skewness, outliers, and missing values. Manual predictions are time-consuming and may not yield optimal pricing decisions. Additionally, capturing leads effectively is challenging. This project aims to develop machine learning models to predict sales prices and classify leads. The models will address challenges such as skewed and noisy data, missing values, and lead classification.
 
 ## Structure
-1. Problem Statement Definition
+### 1. Problem Statement Definition
 Define objectives, including predicting sales prices and classifying leads.
 
-2. Data Understanding
+### 2. Data Understanding
 Understand dataset variables, distributions, and significance.
 
-3. Data Preprocessing
+### 3. Data Preprocessing
 Handle missing values, outliers, and transform skewed data.
 
-4. Exploratory Data Analysis (EDA)
+### 4. Exploratory Data Analysis (EDA)
 Visualize outliers, skewness, and relationships between variables.
 
-5. Feature Engineering
+### 5. Feature Engineering
 Create new features and drop correlated columns.
 
-6. Model Building and Evaluation
+### 6. Model Building and Evaluation
 Split data, train, evaluate models, and optimize hyperparameters.
 
-7. Model GUI Development
+### 7. Model GUI Development
 Create an interactive web application using Streamlit for model predictions.
 
 
